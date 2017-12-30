@@ -1,0 +1,6 @@
+print( "0101010101010101010")
+print( "7456876598756365870")
+x=input( " I am sitting here\n")
+print(x)
+input(x)
+input(x)
