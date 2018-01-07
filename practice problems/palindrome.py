@@ -1,8 +1,8 @@
 from englishWords import *
 
 def isPalindrome(word):
-    c=-2
-    R=word[-1]
+    c=-1
+    R=""
     while c>=-len(word):
         R=R+word[c]
         c=c-1
